@@ -38,7 +38,7 @@ I explored different Machine Learning algorithms to predict stock prices with th
 
 ## HTML, CSS
 ### Website powerpoint display in Fin-dex folder
-For my CS50 assigment, I developed Fin-Dex, an interactive blog website that explores the ABCDS of Fintech (AI, Blockchain, Cloud computing, Big Data). 
+For my CS50 assignment, I developed Fin-Dex, an interactive blog website that explores the ABCDS of Fintech (AI, Blockchain, Cloud computing, Big Data). 
 
 This website features a home, about and contact page with a read more button that redirects the user to respective blogs.
 ## PowerBI: Public safety
