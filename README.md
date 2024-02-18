@@ -45,5 +45,5 @@ This website features a home, about and contact page with a read more button tha
 This project marks my first time employing Data visualization and analysis tools on raw data extracted from data.gov.sg.
 
 - Using PowerBI, I formed relationships and statistics between crimes and genders
-- Debunking of "Do male's commit more crimes stigma" using statsitcs
+- Debunking of "Do male's commit more crimes stigma" using stats
 
