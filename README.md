@@ -41,7 +41,7 @@ I explored different Machine Learning algorithms to predict stock prices with th
 For my CS50 assigment, I developed Fin-Dex, an interactive blog website that explores the ABCDS of Fintech (AI, Blockchain, Cloud computing, Big Data). 
 
 This website features a home, about and contact page with a read more button that redirects the user to respective blogs.
-## PowerBI
+## PowerBI: Public safety
 This project marks my first time employing Data visualization and analysis tools on raw data extracted from data.gov.sg.
 
 - Using PowerBI, I formed relationships and statistics between crimes and genders
