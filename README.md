@@ -8,7 +8,7 @@ Regarding issues or improvement suggestions, please contact me via email at mati
 
 ### Fintech Foundations and applications Upenn
 **Background**:  
-Inspired by a Fintech course I completed, my goal was to develop a user-friendly course program that summarizes the key learning points.
+Inspired by a Fintech course I completed, my goal was to develop a user-friendly course program that summarized the key learning points of this course
 
 The program features 4 specializations with 80+ segments of readable course material.
 Users can navigate using a main panel through Specializations-Topics-Segments with back functions and user-friendly visuals.
